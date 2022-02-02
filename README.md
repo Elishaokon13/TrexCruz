@@ -1,11 +1,10 @@
 <p align="center">
 <a href="https://TrexCruz.github.io">
-  <img width="350px" alt="Elisha David" src="https://trexcruz.github.io/assets/img/IMG_16322090330371971.jpg" /> 
-  </a> 
-  <h3 align="center">I am Elisha David Okon</h3>
+  <img width="150px" alt="Elisha David" src="https://trexcruz.github.io/assets/img/IMG_16322090330371971.jpg" style="border-radius:50%!important"/> 
+  </a> <br>
 </p>
 <br>
-
+<b> Elisha David Okon</b>
 
 *Web designer*
 
